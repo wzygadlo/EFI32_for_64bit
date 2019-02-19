@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-static char *iso_name = {"insert-your-linux.iso name here"};
+static char *iso_name = {"efi64to32.iso"};
 
 int main(int argc, char **argv)
 {
