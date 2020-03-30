@@ -4,7 +4,7 @@ The script helps install 64bit OS on HW with EFI32bit like Mac Pro 1.1
 
 **Compile file:**
 ```
-cc -g -Wall efi64to32.c -o efi64to32.c
+cc -g -Wall efi64to32.c -o efi64to32
 ```
 Download iso to folder where file has been compiled, change name to efi64to32.iso
 ```
